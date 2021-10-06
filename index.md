@@ -1,5 +1,8 @@
 <table border="0">
   <tr>
+    <td width="25%">
+      <img src="pics/half body.jpg" width="100%">
+    </td>
     <td width="75%">
       <h1>Yinghao ZHANG</h1>
       <p><b>Master</b></p>
@@ -7,11 +10,9 @@
       <p><b>Mail：20s105185@stu.hit.edu.cn</b></p>
       <p><b>Research Interest: MRI reconstruction, compressed sensing, deep learning</b></p>
     </td>
-    <td width="25%">
-      <img src="pics/half body.jpg" width="100%">      % 插入证件照代码
-    </td>
   </tr>
 </table>
+
 
 ## MRI Reconstruction
 
